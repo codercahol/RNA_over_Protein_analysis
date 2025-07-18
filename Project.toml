@@ -16,6 +16,5 @@ XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
 [compat]
 DataFrames = "1.7.0"
 LsqFit = "0.15.1"
-Plots = "1.40.17"
 Statistics = "1.11.1"
 XLSX = "0.10.4"
