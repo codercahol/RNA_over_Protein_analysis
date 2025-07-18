@@ -1,4 +1,4 @@
-module RnPAbxAnalysis
+module R_over_P_analysis
 
 using DataFrames
 using XLSX
